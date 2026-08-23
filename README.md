@@ -1,5 +1,6 @@
 # powershell
 This repo contains powershell scripts that are useful to me <br>
+The content of all files can be copy pasted into a powershell window or run as a file <br>
 <br>
 **all_files_to_7z.ps1** - this compresses all folders and files in the directory where it is run. The password is simply 'password' <br>
 **check_bitlocker.ps1** - this verifies if bitlocker is active on a drive <br>
